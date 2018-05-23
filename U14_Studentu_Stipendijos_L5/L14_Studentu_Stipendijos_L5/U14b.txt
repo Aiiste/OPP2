@@ -1,0 +1,6 @@
+2000 5
+Krupaviciute;Karolina;IFZ-6/2;7;8,10,8,10,10,9,8;
+Gausaite;Goda;IFZ-6/2;5;5,6,4,7,3;
+Dubikaltyte;Gintare;IFZ-6/2;6;7,8,5,8,10,6;
+Pavardenis;Vardenis;IFF-6/7;5;6,6,6,6,7;
+Jonaitis;Jonas;IFIN-6/1;6;4,2,8,4,5,9;

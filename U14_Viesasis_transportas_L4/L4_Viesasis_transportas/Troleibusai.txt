@@ -1,0 +1,8 @@
+Kautra
+1; Islandijos pl. - Vaidoto g.;100;29;
+2; Islandijos pl. - Kauno pilis;53;13;
+4; Islandijos pl. - Vaidoto g.;96;28;
+5; Islandijos pl. - Petrasiunai;58;16;
+7; Islandijos pl. - Partizanu g.;50;11;
+8; Islandijos pl. - Varniu g.;62;19;
+9; Islandijos pl. - Petrasiunai;64;20;

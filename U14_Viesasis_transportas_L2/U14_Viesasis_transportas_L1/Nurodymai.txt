@@ -1,0 +1,9 @@
+Isijungus programa einame šiais žingsniais:
+1. Uþvedame ant þodþio Failas > Ivesti > Autobusai, pasirenkame autobusu tekstini faila ir ikeliame.
+2. Einame tuo paèiu keliu, taèiau pasirenkame Troleibusus, bei taip pat ikeliame ju tekstini faila.
+3. Uþvedame ant þodþio Skaièiavimai > Rasti, ir tuo metu ðšalia lango parodys kokie yra troleibusu ir autobusu marðšrutø ilgiai.
+4. Ivedame a ir b intervalo reikšmes, toliau spaudþiame Skaièiavimai > Sàrašðas, ir tuo metu gausime naujai sudarytà bendrà sàraðšà, pagal marðšruto ilgá.
+5. Einame Skaièiavimai > Rikiuoti, ir tuo metu mûsø saraðšas bus surikiuotas pagal stoteliø skaièiø.
+6. Ivedame þodá jam paskirtame lange, bei einame Skaièiavimai > Šðalinimas, ir gausime sàraðša su paðalintu maršðrutu jûsø nurodyto þodþio.
+
+Baigus programa einame Failas > Baigti ir programa uþsidarys.

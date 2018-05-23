@@ -1,0 +1,33 @@
+Pradiniai duomenys
+---------------------------------------------------------
+| Pavarde        Vardas     Telefono nr.      Stipendija|
+---------------------------------------------------------
+Pavardens        Vardenis     861726354        0.00 
+Onaityte         Ona          868264572        0.00 
+Jonaitis         Jonas        869876543        0.00 
+Petraitis        Petras       866928764        0.00 
+Kristupaitis     Kristupas    865498674        0.00 
+---------------------------------------------------------
+
+Studiju fonde yra: 3000 o minimalus vidurkis yra 7
+-----------------------------------------------------------------------------------
+| Pavarde        Vardas      Grupe      Paz.Kiekis        Pazymiai       Vidurkis |
+-----------------------------------------------------------------------------------
+Pavardenis       Vardenis   IFF-6/7          5         10 6 8 6 7           7
+Onaityte         Ona        IFIN-6/3         6         9 4 3 2 7 10         5
+Jonaitis         Jonas      IFIN-6/1         6         4 2 8 4 5 9          5
+Petraitis        Petras     IFZ-6/3          4         10 9 8 10            9
+Kristupaitis     Kristupas  IFZ-6/5          7         10 9 9 9 9 10 10     9
+-----------------------------------------------------------------------------------
+
+Duomenys su paskirstytomis stipendijomis
+---------------------------------------------------------
+| Pavarde        Vardas     Telefono nr.      Stipendija|
+---------------------------------------------------------
+Pavardens        Vardenis     861726354        937.50 
+Onaityte         Ona          868264572        0.00 
+Jonaitis         Jonas        869876543        0.00 
+Petraitis        Petras       866928764        1031.25 
+Kristupaitis     Kristupas    865498674        1031.25 
+---------------------------------------------------------
+

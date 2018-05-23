@@ -1,0 +1,8 @@
+Kautra
+10; Partizanu g. - Kauno pilis;56;29;
+12; Petrasiunai - Klinikos;76;34;
+14; Islandijos pl. - Centras;45;28;
+15; Islandijos pl. - Centras;90;85;
+17; Islandijos pl. - Centras;34;11;
+18; Islandijos pl. - Varniu g.;67;23;
+19; Islandijos pl. - Petrasiunai;23;34;

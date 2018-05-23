@@ -1,0 +1,5 @@
+Kautra
+21;Kauno pilis - Mega;53;13;
+48;Kauno pilis - Raudondvaris;65;24;
+44;Kauno pilis - Liucijanavos g.;67;25;
+49;Kauno pilis - Lampedziai;56;13;

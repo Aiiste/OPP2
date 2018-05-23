@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------------------
+Automobiliu parkas. 
+Turite duomenis apie UAB priklausancius automobilius. Duomenu faile
+pateikta si informacija: valstybinis numeris, gamintojas, modelis, spalva, pagaminimo metai ir
+menuo, technines apžiuros galiojimo data, kuras, vidutines kuro sanaudos (100km).
+* Raskite du nurodytos spalvos seniausius automobilius (visi duomenys).
+* Raskite, kiek yra nurodytos spalvos automobiliu.
+* Sudarykite visu nurodytu metu intervalo automobiliu saraša (visi duomenys).
+* Surikiuokite sudaryta saraša pagal pasirinktus du požymius.
+* Sudarykite visu automobiliu gamintoju sarasa be pasikartojimu.
+Visus skaiciavimu rezultatus pateikite rezultatu faile lentelemis.
+--------------------------------------------------------------------------------------
+Programa parase KTU studente, Aiste Sudintaite, IFZ-6/2 gr.

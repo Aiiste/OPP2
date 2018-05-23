@@ -1,0 +1,13 @@
+C:\Users\Home\Desktop\nd2\L4_Viesasis_transportas\L4_Viesasis_transportas\bin\Debug\L4_Viesasis_transportas.exe.config
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\U14_Viesasis_transportas_L4\L4_Viesasis_transportas\bin\Debug\L4_Viesasis_transportas.exe.config
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\U14_Viesasis_transportas_L4\L4_Viesasis_transportas\bin\Debug\L4_Viesasis_transportas.exe
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\U14_Viesasis_transportas_L4\L4_Viesasis_transportas\bin\Debug\L4_Viesasis_transportas.pdb
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\U14_Viesasis_transportas_L4\L4_Viesasis_transportas\obj\Debug\L4_Viesasis_transportas.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\U14_Viesasis_transportas_L4\L4_Viesasis_transportas\obj\Debug\L4_Viesasis_transportas.Form1.resources
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\U14_Viesasis_transportas_L4\L4_Viesasis_transportas\obj\Debug\L4_Viesasis_transportas.Properties.Resources.resources
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\U14_Viesasis_transportas_L4\L4_Viesasis_transportas\obj\Debug\L4_Viesasis_transportas.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\U14_Viesasis_transportas_L4\L4_Viesasis_transportas\obj\Debug\L4_Viesasis_transportas.exe
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\U14_Viesasis_transportas_L4\L4_Viesasis_transportas\obj\Debug\L4_Viesasis_transportas.pdb
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\MANO\U14_Viesasis_transportas_L4\L4_Viesasis_transportas\bin\Debug\L4_Viesasis_transportas.exe.config
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\MANO\U14_Viesasis_transportas_L4\L4_Viesasis_transportas\obj\Debug\L4_Viesasis_transportas.exe
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\MANO\U14_Viesasis_transportas_L4\L4_Viesasis_transportas\obj\Debug\L4_Viesasis_transportas.pdb

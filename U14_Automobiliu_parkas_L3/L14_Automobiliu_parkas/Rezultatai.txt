@@ -1,0 +1,51 @@
+Pradiniai duomenys
+----------------------------------------------------------------------------------------------------
+ Numeris   Gamintojas  Modelis      Spalva     Pag. metai     Techn.apziura     Kuras    Sanaudos 
+----------------------------------------------------------------------------------------------------
+GHJ354      Subaru    Outback      Sidabrine     2007-11       2017-03-24     benzinas       10
+DJG325      Lexus     RX           Melyna        2010-05       2016-07-12     dyzelinas      12
+OHM456      Nissan    GTR          Melyna        1997-10       2017-12-23     dyzelinas      9
+AQJ845      Porsche   Panamera     Juoda         1999-05       2018-06-24     benzinas       9.4
+XOP987      Opel      Insignia     Raudona       2015-06       2015-11-21     dujos          9.8
+XOR245      Nissan    Pulsar       Sidabrine     2010-08       2016-03-12     benzinas       7
+NOR689      Lexus     GS           Melyna        1997-09       2018-09-07     dyzelinas      8
+INV658      Honda     Civic        Zalia         2005-09       2017-04-06     dujos          7
+AND896      Subaru    Forester     Sidabrine     2008-09       2017-09-08     dyzelinas      10.4
+----------------------------------------------------------------------------------------------------
+
+Dvieju seniausiu masinu jusu nurodytos spalvos nera
+
+Jusu nurodytos spalvos: Zalia , masinu yra 1
+
+Naujas sarasas
+----------------------------------------------------------------------------------------------------
+ Numeris   Gamintojas  Modelis      Spalva     Pag. metai     Techn.apziura     Kuras    Sanaudos 
+----------------------------------------------------------------------------------------------------
+GHJ354      Subaru    Outback      Sidabrine     2007-11       2017-03-24     benzinas       10
+DJG325      Lexus     RX           Melyna        2010-05       2016-07-12     dyzelinas      12
+XOP987      Opel      Insignia     Raudona       2015-06       2015-11-21     dujos          9.8
+XOR245      Nissan    Pulsar       Sidabrine     2010-08       2016-03-12     benzinas       7
+AND896      Subaru    Forester     Sidabrine     2008-09       2017-09-08     dyzelinas      10.4
+----------------------------------------------------------------------------------------------------
+
+Rikiuotas sarasas
+----------------------------------------------------------------------------------------------------
+ Numeris   Gamintojas  Modelis      Spalva     Pag. metai     Techn.apziura     Kuras    Sanaudos 
+----------------------------------------------------------------------------------------------------
+GHJ354      Subaru    Outback      Sidabrine     2007-11       2017-03-24     benzinas       10
+AND896      Subaru    Forester     Sidabrine     2008-09       2017-09-08     dyzelinas      10.4
+XOR245      Nissan    Pulsar       Sidabrine     2010-08       2016-03-12     benzinas       7
+DJG325      Lexus     RX           Melyna        2010-05       2016-07-12     dyzelinas      12
+XOP987      Opel      Insignia     Raudona       2015-06       2015-11-21     dujos          9.8
+----------------------------------------------------------------------------------------------------
+
+-------------------------------------------
+Bendras gamintoju sarasas be pasikartojimu: 
+-------------------------------------------
+Subaru
+Lexus
+Nissan
+Porsche
+Opel
+Honda
+-------------------------------------------

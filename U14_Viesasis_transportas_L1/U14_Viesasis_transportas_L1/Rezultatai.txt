@@ -1,0 +1,65 @@
+Kautra
+
+ Autobusu marsrutai
+---------------------------------------------------------------------
+Nr.        Marsrutas              Kelio ilgis   Stoteliu skaicius 
+---------------------------------------------------------------------
+21  Kauno pilis - Mega                53              13
+44  Kauno pilis - Liucijanavos g.     67              25
+48  Kauno pilis - Raudondvaris        65              24
+49  Kauno pilis - Lampedziai          53              13
+---------------------------------------------------------------------
+
+
+
+ Troleibusu marsrutai
+---------------------------------------------------------------------
+Nr.        Marsrutas              Kelio ilgis   Stoteliu skaicius 
+---------------------------------------------------------------------
+1    Islandijos pl. - Vaidoto g.     100              29
+2    Islandijos pl. - Kauno pilis     53              13
+4    Islandijos pl. - Vaidoto g.      96              28
+5    Islandijos pl. - Petrasiunai     58              16
+7    Islandijos pl. - Partizanu g.    50              11
+8    Islandijos pl. - Varniu g.       62              19
+9    Islandijos pl. - Petrasiunai     64              20
+---------------------------------------------------------------------
+
+Bendras sarasas
+
+ Naujas sarasas
+---------------------------------------------------------------------
+Nr.        Marsrutas              Kelio ilgis   Stoteliu skaicius 
+---------------------------------------------------------------------
+21  Kauno pilis - Mega                53              13
+49  Kauno pilis - Lampedziai          53              13
+2    Islandijos pl. - Kauno pilis     53              13
+5    Islandijos pl. - Petrasiunai     58              16
+7    Islandijos pl. - Partizanu g.    50              11
+---------------------------------------------------------------------
+
+Bendras sarasas
+
+ Rikiuotas sarasas
+---------------------------------------------------------------------
+Nr.        Marsrutas              Kelio ilgis   Stoteliu skaicius 
+---------------------------------------------------------------------
+5    Islandijos pl. - Petrasiunai     58              16
+21  Kauno pilis - Mega                53              13
+49  Kauno pilis - Lampedziai          53              13
+2    Islandijos pl. - Kauno pilis     53              13
+7    Islandijos pl. - Partizanu g.    50              11
+---------------------------------------------------------------------
+
+Bendras sarasas
+
+ Sarasas su ismestu zodziu
+---------------------------------------------------------------------
+Nr.        Marsrutas              Kelio ilgis   Stoteliu skaicius 
+---------------------------------------------------------------------
+5    Islandijos pl. - Petrasiunai     58              16
+49  Kauno pilis - Lampedziai          53              13
+2    Islandijos pl. - Kauno pilis     53              13
+7    Islandijos pl. - Partizanu g.    50              11
+---------------------------------------------------------------------
+

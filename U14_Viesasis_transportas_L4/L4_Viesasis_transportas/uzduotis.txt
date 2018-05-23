@@ -1,0 +1,11 @@
+Miesto  vieðojo  transporto  (autobusø  ir  troleibusø)  marðrutø  duomenys  yra  dviejuose  failuose.  Pirmoje  eilutëje  yra 
+transporto ámonës pavadinimas, kitose eilutëse: 
+marðruto numeris, marðruto pavadinimas, ilgis kilometrais ir stoteliø 
+skaièius.
+L1+L2+L4
+* Raskite kiekvienos transporto rûðies bendrà marðrutø ilgá.
+* Sudarykite bendrà sàraðà tokiø marðutø, kuriø ilgiai yra intevale [a; b].
+* Surikiuokite suformuotà sàraðà pagal stoteliø skaièiø.
+* Paðalinkite ið rezultatø sàraðo marðutus, kuriø pavadinime yra nurodytas þodis.
+L2 papildymas
+* Papildykite surikiuotà rezultatø sàraðà naujais marðutais, apie kuriuos duomenys yra faile

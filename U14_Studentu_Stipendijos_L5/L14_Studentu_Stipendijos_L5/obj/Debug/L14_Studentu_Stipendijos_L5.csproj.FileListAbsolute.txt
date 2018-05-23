@@ -1,0 +1,12 @@
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\L14_Studentu_Stipendijos_L5\L14_Studentu_Stipendijos_L5\bin\Debug\L14_Studentu_Stipendijos_L5.exe.config
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\L14_Studentu_Stipendijos_L5\L14_Studentu_Stipendijos_L5\obj\Debug\L14_Studentu_Stipendijos_L5.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\L14_Studentu_Stipendijos_L5\L14_Studentu_Stipendijos_L5\obj\Debug\L14_Studentu_Stipendijos_L5.Properties.Resources.resources
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\L14_Studentu_Stipendijos_L5\L14_Studentu_Stipendijos_L5\obj\Debug\L14_Studentu_Stipendijos_L5.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\L14_Studentu_Stipendijos_L5\L14_Studentu_Stipendijos_L5\bin\Debug\L14_Studentu_Stipendijos_L5.exe
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\L14_Studentu_Stipendijos_L5\L14_Studentu_Stipendijos_L5\bin\Debug\L14_Studentu_Stipendijos_L5.pdb
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\L14_Studentu_Stipendijos_L5\L14_Studentu_Stipendijos_L5\obj\Debug\L14_Studentu_Stipendijos_L5.exe
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\L14_Studentu_Stipendijos_L5\L14_Studentu_Stipendijos_L5\obj\Debug\L14_Studentu_Stipendijos_L5.pdb
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\L14_Studentu_Stipendijos_L5\L14_Studentu_Stipendijos_L5\obj\Debug\L14_Studentu_Stipendijos_L5.Form1.resources
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\MANO\U14_Studentu_Stipendijos_L5\L14_Studentu_Stipendijos_L5\bin\Debug\L14_Studentu_Stipendijos_L5.exe.config
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\MANO\U14_Studentu_Stipendijos_L5\L14_Studentu_Stipendijos_L5\obj\Debug\L14_Studentu_Stipendijos_L5.exe
+C:\Users\Home\Desktop\KTU shit\2 semestras\Objektinis programavimas 2\MANO\U14_Studentu_Stipendijos_L5\L14_Studentu_Stipendijos_L5\obj\Debug\L14_Studentu_Stipendijos_L5.pdb
